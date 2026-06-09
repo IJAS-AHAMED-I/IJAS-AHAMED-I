@@ -11,7 +11,7 @@
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=ijasahamed8055&label=Profile+Views&color=70a5fd&style=flat-square" alt="Profile Views" />
   <a href="mailto:ijasahamed8055@gmail.com"><img src="https://img.shields.io/badge/Gmail-ijasahamed8055-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/ijasahamed"><img src="https://img.shields.io/badge/LinkedIn-Ijas%20Ahamed-0077B5?style=flat-square&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/ijas-ahamed-a02a75353/"><img src="https://img.shields.io/badge/LinkedIn-Ijas%20Ahamed-0077B5?style=flat-square&logo=linkedin&logoColor=white" /></a>
   <img src="https://img.shields.io/badge/Location-Coimbatore%2C%20Tamil%20Nadu-38BDAE?style=flat-square&logo=google-maps&logoColor=white" />
 </div>
 
